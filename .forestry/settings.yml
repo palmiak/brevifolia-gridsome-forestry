@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url: https://app.buddy.works/freshpixels-1/brevifolia-gridsome-forestry/pipelines/pipeline/401400/trigger-webhook?token=e434ddc12c8b7b25286723655308b75f6ec7a65a23a799dbf13d1e3983e0dedf9c4cfad4c66cf22dc6d68d821fc9229d
 sections:
 - type: heading
   label: Content
